@@ -2,14 +2,14 @@
     "manifest_version": 3,
     "name": "노션 글자수세기",
     "description": "선택한 글자가 어떤 언어든 글자수를 알려주는 확장 프로그램",
-    "version": "1.0",
+    "version": "1.1",
     "icons": {
       "16": "icon.png",
       "32": "icon.png",
       "48": "icon.png",
       "128": "icon.png"
     },
-    "permissions": ["scripting"],
+    "permissions": [],
     "host_permissions": ["<all_urls>"],
     "content_scripts": [
     {
